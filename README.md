@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarvambh Sangle</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Lighthill Acoustic Analogy for a Monopole Source**
+- 🔭 I’m currently working on **Digital Twinning**
 
-- 🌱 I’m currently learning **SLM,s , Middleware**
+- 🌱 I’m currently learning **Digital Twins and its application in Industry 4.0 from TCS Researchers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarvambhSangle](https://github.com/SarvambhSangle)
 
